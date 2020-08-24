@@ -29,28 +29,10 @@ I am currently doing a summer internship at a company named Ağaç Yazılım.
 
 ## ⚡ You can reach me by clicking the links below
 
-
 Here is my [![Twitter][1.2]][1], and here is my [![LinkedIn][2.2]][2].
-
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: https://github.com/CanKirsallioba/CanKirsallioba/blob/master/linke.png?raw=true (LinkedIn icon without padding)
 
-
 [1]: https://twitter.com/CanKirsallioba
 [2]: https://www.linkedin.com/in/can-k%C4%B1r%C5%9Fall%C4%B1oba-990940186/
-
-<!--
-**CanKirsallioba/CanKirsallioba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
