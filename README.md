@@ -4,7 +4,7 @@ My name is Can Kırşallıoba, I am a Computer Science student at the Bilkent Un
 
 Currently I am mainly focused in Machine Learning, however I am also doing some Android, and web development.
 
-Thank you for visiting my profile, you are currently visitor [visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Faeris170.aeris170%2Freadme).
+Thank you for visiting my profile, you are currently ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FCanKirsallioba.CanKirsallioba%2Freadme)
 
 ## ⚡ Here are some stats about my Github page
 
