@@ -1,4 +1,4 @@
-### Hello there
+## Hello there 🔥
 
 My name is Can Kırşallıoba, I am a Computer Science student at the Bilkent University, Turkey.
 
@@ -19,7 +19,7 @@ Thank you for visiting my profile, you are currently ![visitors](https://img.shi
 
 I am currently doing a summer internship at a company named Ağaç Yazılım.
 
-## ⚡ Here are some technologies I am proficient with
+## ⚡ Here are some technologies I am proficient with 💻
 
 [![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat&logo=C%2B%2B&logoColor=ffffff)](https://github.com/CanKirsallioba)
 [![Java](https://img.shields.io/badge/Java-black?style=flat&logo=java&logoColor=white&link=https://github.com/CanKirsallioba)](https://github.com/CanKirsallioba) 
