@@ -8,7 +8,7 @@ Thank you for visiting my profile, you are currently visitor [visitors](https://
 
 ##⚡ Here are some stats about my Github page
 
-![Can's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CanKirsallioba)](https://github.com/anuraghazra/github-readme-stats)
+![Can's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CanKirsallioba)
 
 ##⚡ Jobs
 
@@ -16,10 +16,10 @@ I am currently doing a summer internship at a company named Ağaç Yazılım.
 
 ##⚡ Here are some technologies I am proficient with
 
-![](https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=blue)
-![](https://img.shields.io/badge/-java-black?style=for-the-badge&logo=java&logoColor=orange)
+![](https://img.shields.io/badge/-Code-C++-informational?style=for-the-badge&logo=c%2B%2B&logoColor=blue)
+![](https://img.shields.io/badge/-Code-Java-informational?style=for-the-badge&logo=java&logoColor=orange)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](http://img.shields.io/badge/-javascript-black?style=for-the-badge&logo=javascript)
+![](http://img.shields.io/badge/-Code-Javascript-informational?style=for-the-badge&logo=javascript)
 
 ##⚡ You can reach me by clicking the links below
 
