@@ -29,7 +29,7 @@ Here is my [![Twitter][1.2]][1], and here is my [![LinkedIn][2.2]][2].
 
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: (https://i.ibb.co/Kx2GSrT/linkedin.png =32x32) (LinkedIn icon without padding)
+[2.2]: https://github.com/CanKirsallioba/CanKirsallioba/blob/master/linke.png?raw=true (LinkedIn icon without padding)
 
 
 [1]: https://twitter.com/CanKirsallioba
