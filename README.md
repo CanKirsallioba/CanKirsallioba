@@ -8,7 +8,12 @@ Thank you for visiting my profile, you are currently ![visitors](https://img.shi
 
 ## ⚡ Here are some stats about my Github page
 
-![Can's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CanKirsallioba)
+<a href="https://github.com/CanKirsallioba/CanKirsallioba">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanKirsallioba&,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/CanKirsallioba/CanKirsallioba">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CanKirsallioba&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Can's GitHub Stats" />
+</a>
 
 ## ⚡ Jobs
 
