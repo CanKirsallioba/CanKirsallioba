@@ -25,7 +25,7 @@ I am currently doing a summer internship at a company named Ağaç Yazılım.
 ##⚡ You can reach me by clicking the links below
 
 
-Here is my [![Twitter][1.2]][1], and here is my [![LinkedIn][3.2]][3].
+Here is my [![Twitter][1.2]][1], and here is my [![LinkedIn][2.2]][2].
 
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
