@@ -6,15 +6,15 @@ Currently I am mainly focused in Machine Learning, however I am also doing some 
 
 Thank you for visiting my profile, you are currently visitor [visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Faeris170.aeris170%2Freadme).
 
-##⚡ Here are some stats about my Github page
+## ⚡ Here are some stats about my Github page
 
 ![Can's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CanKirsallioba)
 
-##⚡ Jobs
+## ⚡ Jobs
 
 I am currently doing a summer internship at a company named Ağaç Yazılım.
 
-##⚡ Here are some technologies I am proficient with
+## ⚡ Here are some technologies I am proficient with
 
 [![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat&logo=C%2B%2B&logoColor=ffffff)](https://github.com/CanKirsallioba)
 [![Java](https://img.shields.io/badge/Java-black?style=flat&logo=java&logoColor=white&link=https://github.com/CanKirsallioba)](https://github.com/CanKirsallioba) 
@@ -22,7 +22,7 @@ I am currently doing a summer internship at a company named Ağaç Yazılım.
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/CanKirsallioba)](https://github.com/CanKirsallioba)
 
 
-##⚡ You can reach me by clicking the links below
+## ⚡ You can reach me by clicking the links below
 
 
 Here is my [![Twitter][1.2]][1], and here is my [![LinkedIn][2.2]][2].
