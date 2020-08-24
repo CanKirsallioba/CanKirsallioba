@@ -16,10 +16,10 @@ I am currently doing a summer internship at a company named Ağaç Yazılım.
 
 ##⚡ Here are some technologies I am proficient with
 
-![](https://img.shields.io/badge/-C++-informational?style=for-the-badge&logo=c%2B%2B&logoColor=blue)
-![](https://img.shields.io/badge/-Java-informational?style=for-the-badge&logo=java&logoColor=orange)
+![](https://img.shields.io/badge/-Code-C++-informational?style=flat&logo=c%2B%2B&&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](http://img.shields.io/badge/-Javascript-informational?style=for-the-badge&logo=javascript)
+![](http://img.shields.io/badge/-Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
 ##⚡ You can reach me by clicking the links below
 
