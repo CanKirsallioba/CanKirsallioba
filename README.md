@@ -16,8 +16,8 @@ I am currently doing a summer internship at a company named Ağaç Yazılım.
 
 ##⚡ Here are some technologies I am proficient with
 
-[![C++](https://img.shields.io/badge/-C/C%2B%2B-%2300599C?style=flat&logo=C%2B%2B&logoColor=ffffff)](https://github.com/CanKirsallioba)
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/CanKirsallioba)](https://github.com/CanKirsallioba) 
+[![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat&logo=C%2B%2B&logoColor=ffffff)](https://github.com/CanKirsallioba)
+[![Java](https://img.shields.io/badge/Java-black?style=flat&logo=java&logoColor=white&link=https://github.com/CanKirsallioba)](https://github.com/CanKirsallioba) 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/CanKirsallioba)](https://github.com/CanKirsallioba)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/CanKirsallioba)](https://github.com/CanKirsallioba)
 
