@@ -16,10 +16,11 @@ I am currently doing a summer internship at a company named Ağaç Yazılım.
 
 ##⚡ Here are some technologies I am proficient with
 
-![](https://img.shields.io/badge/-Code-C++-informational?style=flat&logo=c%2B%2B&&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](http://img.shields.io/badge/-Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+[![C++](https://img.shields.io/badge/-C/C%2B%2B-%2300599C?style=flat&logo=C%2B%2B&logoColor=ffffff)](https://github.com/hritik5102)
+[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/hritik5102)](https://github.com/hritik5102)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/hritik5102)](https://github.com/hritik5102)
+
 
 ##⚡ You can reach me by clicking the links below
 
