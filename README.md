@@ -17,7 +17,7 @@ Thank you for visiting my profile, you are currently ![visitors](https://img.shi
 
 ## ⚡ Jobs
 
-I am currently doing a summer internship at a company named Ağaç Yazılım.
+I am currently doing a summer internship at a company named Ağaç Yazılım A.Ş..
 
 ## ⚡ Here are some technologies I am proficient with 💻
 
