@@ -14,11 +14,11 @@ Thank you for visiting my profile, you are currently ![visitors](https://img.shi
 <a href="https://github.com/CanKirsallioba/CanKirsallioba">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=CanKirsallioba&show_icons=true&line_height=27&count_private=true&include_all_commits=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Can's GitHub Stats" />
 </a>
-<!--
+
 ## ⚡ Jobs
 
 I am currently doing a summer internship at a company named Ağaç Yazılım A.Ş..
--->
+
 ## ⚡ Here are some technologies I am proficient with 💻
 
 [![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat&logo=C%2B%2B&logoColor=ffffff)](https://github.com/CanKirsallioba)
