@@ -17,7 +17,7 @@ Thank you for visiting my profile, you are currently ![visitors](https://img.shi
 
 ## ⚡ Jobs
 
-I am currently available.
+Junior at Bilkent University Computer Engineering Department, intrested at internship offers.
 
 ## ⚡ Here are some technologies I am proficient with 💻
 
