@@ -1,4 +1,4 @@
-## Hello there 🔥<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hello there 🔥
 
 My name is Can Kırşallıoba, I am a Computer Engineering student at the Bilkent University, Turkey.
 
